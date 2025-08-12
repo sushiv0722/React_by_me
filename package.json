@@ -1,0 +1,29 @@
+{
+  "name": "react_by_shivam",
+  "version": "1.0.0",
+  "description": "2) learned how to create element ,store data to it , finding root and rendering react elment in to the root .\r                       3) learned different placement of div , and whaat if we change the order of the code in html etc .\r                       4) how to create nested elment in react .\r                       5) how we crate an siblings .\r                       6) difference between library and framwork,",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushiv0722/React_by_me.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushiv0722/React_by_me/issues"
+  },
+  "homepage": "https://github.com/sushiv0722/React_by_me#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browserlist": [
+    "last 2 chrome version"
+  ]
+}
