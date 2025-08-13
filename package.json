@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "2) learned how to create element ,store data to it , finding root and rendering react elment in to the root .\r                       3) learned different placement of div , and whaat if we change the order of the code in html etc .\r                       4) how to create nested elment in react .\r                       5) how we crate an siblings .\r                       6) difference between library and framwork,",
   "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
